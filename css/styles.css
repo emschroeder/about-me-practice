@@ -1,0 +1,26 @@
+body {
+	background: url("../img/bg.png");
+
+}
+
+h1 {
+
+}
+
+a {
+	color:lightgreen;
+  background-color: green;
+	font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+	color:lightblue;
+  text-decoration: none;
+}
+
+nav {
+	padding-top: 20px;
+}
+
+/*Diagnostic Styling */
